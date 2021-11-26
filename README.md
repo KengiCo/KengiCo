@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kengi Costagliola</h1>
-<h3 align="center">A passionate web developer, living in the wild north(Tromsø)</h3>
+<h3 align="center">A passionate web developer, living in the wild north - Tromsø</h3>
 
 <br>
 
